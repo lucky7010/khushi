@@ -1,3 +1,3 @@
 # khushi
 sister
-lucky
+lucky lamba
